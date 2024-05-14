@@ -12,6 +12,6 @@ With my background in intellectual property and tech law, my goal is to build sa
 
 ## What am I up to now? 🧐
 
-I'm currently learning **TypeScript** and **Java**, while working on my CS fundamentals and a couple of personal projects. 
+I'm currently learning **TypeScript** and **Java**, while working on a couple of personal projects. 
 
 If you'd like to reach out, my email is darrenljj07@hotmail.com/darrenleongjj@gmail.com. Happy to chat!
